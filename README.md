@@ -1,4 +1,4 @@
-**Project Name**
+# Project Name
 Todo App (First part of Todo App - loading todos)
 
 **Live Preview**
@@ -23,9 +23,9 @@ git clone https://github.com/pasha1932/Todo-app-loading-todos.git
 cd project-name
 2. Install dependencies
 npm install
-# or
+or
 yarn install
 3. Run the project locally
 npm start
-# or
+or
 yarn start
