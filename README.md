@@ -1,13 +1,13 @@
 # Project Name
 Todo App (First part of Todo App - loading todos)
 
-**Live Preview**
+# Live Preview
 https://pasha1932.github.io/Todo-app-loading-todos/
 
-**Design Reference**
+# Design Reference
 https://mate-academy.github.io/react_todo-app-with-api/
 
-**Technologies Used**
+# Technologies Used
 
 - HTML, SCSS,
 
@@ -15,7 +15,7 @@ https://mate-academy.github.io/react_todo-app-with-api/
 
 - Vite
 
-**Getting Started**
+# Getting Started
 Follow these steps to set up the project locally
 
 1. Clone the repo
