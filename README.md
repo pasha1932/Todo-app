@@ -1,9 +1,31 @@
-# React TypeScript Starter Pack
+# Project Name
+Todo App (First part of Todo App - loading todos)
 
-To use this template click `Use this template`
+# Live Preview
+https://pasha1932.github.io/Todo-app-loading-todos/
 
-### Available Scripts
+# Design Reference
+https://mate-academy.github.io/react_todo-app-with-api/
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+# Technologies Used
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+- HTML, SCSS,
+
+- React, TypeScript
+
+- Vite
+
+# Getting Started
+Follow these steps to set up the project locally
+
+1. Clone the repo
+git clone https://github.com/pasha1932/Todo-app-loading-todos.git
+cd project-name
+2. Install dependencies
+npm install
+or
+yarn install
+3. Run the project locally
+npm start
+or
+yarn start
