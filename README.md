@@ -1,5 +1,8 @@
 # Project Name
 Todo App (First part of Todo App - loading todos)
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Persistent storage (localStorage, database, etc.)
 
 # Live Preview
 https://pasha1932.github.io/Todo-app/
