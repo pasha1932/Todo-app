@@ -2,7 +2,7 @@
 Todo App (First part of Todo App - loading todos)
 
 # Live Preview
-https://pasha1932.github.io/Todo-app-loading-todos/
+https://pasha1932.github.io/Todo-app/
 
 # Design Reference
 https://mate-academy.github.io/react_todo-app-with-api/
